@@ -90,7 +90,7 @@ Below are open-source requirements management tools, requirements-as-code framew
 
 ## 🤝 How to Contribute
 1. 🍴 Fork this repository.
-2. 📝 Add or update entries in `README.md` (maintain tabular structure for SaaS or star badges for open source).
+2. 📝 Add or update entries in `README.md` (maintain tabular structure for SaaS or Stars_Badges for open source).
 3. 🔍 Ensure descriptions are factual, verified, and include links to official repositories or web pages.
 4. 🚀 Submit a Pull Request with a clear explanation of your changes.
 
